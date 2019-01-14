@@ -5,4 +5,4 @@ CCU_CSIE_IndependentStudy
 
 成員: 楊淨405410016 毛胤年405410010 高靖智 鄭傑予
 
-python VGG-16_for_DeepFashion/preprocessing.py
+  python VGG-16_for_DeepFashion/preprocessing.py
