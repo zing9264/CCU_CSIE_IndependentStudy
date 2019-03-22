@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4211536-3f2e-4578-a9ed-5b32529223c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -41,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="431" />
     <option name="y" value="34" />
     <option name="width" value="1047" />
@@ -64,6 +68,12 @@
               <item name="CCU_CSIE_IndependentStudy" type="462c0819:PsiDirectoryNode" />
               <item name="coffie_distribution_Tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CCU_CSIE_IndependentStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCU_CSIE_IndependentStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="coffie_distribution_Tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="trainning_data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -73,6 +83,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="I:/Python/Tensorflow-Tutorial" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,15 +108,15 @@
       <option name="presentableId" value="Default" />
       <updated>1547470910825</updated>
       <workItem from="1547470937447" duration="1510000" />
-      <workItem from="1547535927044" duration="1488000" />
+      <workItem from="1547535927044" duration="1830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2998000" />
+    <option name="totallyTimeSpent" value="3340000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -147,7 +158,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
